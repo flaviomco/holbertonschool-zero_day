@@ -1,1 +1,1 @@
-**This is the README file for the 0x00 project on Holberton School curricula.**
+0x03-git Readme file
